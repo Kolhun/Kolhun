@@ -11,7 +11,7 @@
 
 ## 👤 Who am I?
 
-Developer specializing in **Python**, **C#** and **Unity 3D**. Building games, scripts and applications — from prototypes to production-ready solutions.
+Developer specializing in **Python**, **C#** and **Unity 3D**. Building games, scripts and applications - from prototypes to production-ready solutions.
 
 ---
 
