@@ -17,7 +17,7 @@ Developer specializing in **Python**, **C#** and **Unity 3D**. Building games, s
 
 ## 🚀 Current project
 
-Currently working on **[together-shop](https://github.com/Kolhun/together-shop.git)**.
+Currently working on **[together-shop](https://github.com/Kolhun/together-shop.git)** and **[Finance Rush](https://github.com/Kolhun/finance-rush.git)**.
 
 ---
 
