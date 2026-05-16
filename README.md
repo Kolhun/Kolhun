@@ -21,7 +21,7 @@ Currently working on **[together-shop](https://github.com/Kolhun/together-shop.g
 
 ## Forks:
 
-[Legcord](https://github.com/Kolhun/Legcord)
+**[Legcord](https://github.com/Kolhun/Legcord)**
 
 
 ## 🛠 Tools I use
