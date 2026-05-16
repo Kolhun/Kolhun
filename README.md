@@ -7,19 +7,21 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Kolhun/Kolhun)](https://github.com/Kolhun/Kolhun/pulls)
 [![GitHub contributors](https://img.shields.io/github/contributors/Kolhun/Kolhun)](https://github.com/Kolhun/Kolhun/graphs/contributors)
 
----
+
 
 ## 👤 Who am I?
 
 Developer specializing in **Python**, **C#** and **Unity 3D**. Building games, scripts and applications - from prototypes to production-ready solutions.
 
----
 
-## 🚀 Current project
 
-Currently working on **[together-shop](https://github.com/Kolhun/together-shop.git)** and **[Finance Rush](https://github.com/Kolhun/finance-rush.git)**.
+## 🚀 Current projects
 
----
+Currently working on **[together-shop](https://github.com/Kolhun/together-shop.git)**, **[Finance Rush](https://github.com/Kolhun/finance-rush.git)**, **[Fast Game Launcher](https://github.com/Kolhun/fast-game-launcher/tree/main)**.
+
+## Forks:
+
+[Legcord](https://github.com/Kolhun/Legcord)
 
 
 ## 🛠 Tools I use
